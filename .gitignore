@@ -1,0 +1,10 @@
+# Archivos binarios
+*.bin
+*.o
+os-image.bin
+
+# Archivos temporales
+*~
+
+# Archivos de compilación
+build/
