@@ -7,15 +7,7 @@ Este proyecto tiene como objetivo **entender cómo funciona un sistema operativo
 
 ## 📁 Estructura del proyecto
 
-SO/
-  ├── bootloader/ # Bootloader en ensamblador NASM (512 bytes)
-    └── bootloader.asm 
-  ├── kernel/ # Código del kernel en lenguaje C │ 
-    └── kernel.c 
-  ├── linker/ # Script de linker para posicionar el kernel en memoria │ 
-    └── linker.ld 
-  ├── Makefile # Script de compilación y ejecución 
-  ├── README.md
+SO/ ├── bootloader/ # Bootloader en ensamblador NASM (512 bytes) │ └── bootloader.asm ├── kernel/ # Código del kernel en lenguaje C │ └── kernel.c ├── linker/ # Script de linker para posicionar el kernel en memoria │ └── linker.ld ├── Makefile # Script de compilación y ejecución └── README.md
 
 
 ---
